@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+#in this we can also use left join.
 select product_name, year ,price
 from sales
 join Product
